@@ -8,18 +8,18 @@
 
 int main() {
     // this function calculates area and perimeter
-    int number_1;
-    int number_2;
+    int number1;
+    int number2;
     int total;
 
     // input
     std::cout << "Enter the First Number :";
-    std::cin >> number_1;
+    std::cin >> number1;
     std::cout << "Enter the Second Number :";
-    std::cin >> number_2;
+    std::cin >> number2;
 
     // process
-    total = number_1 + number_2;
+    total = number1 + number2;
 
     // output
     std::cout << "" << std::endl;
